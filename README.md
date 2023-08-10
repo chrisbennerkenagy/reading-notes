@@ -1,7 +1,7 @@
 # reading-notes
-_Reading journal for Code Fellows_
-
- ## Assignment Lab 01b:
+_Reading journal for Code Fellows_  
+  
+ ## Assignment Lab 01b:  
  
 Hello :wave: ! My name is Chris Benner-Kenagy, I was born and raised in Seattle Washington. I am very excited to begin my software development journey with Code Fellows. Please visit my [GitHub profile](https://chrisbennerkenagy.github.io/reading-notes/) to see my progress.
 
