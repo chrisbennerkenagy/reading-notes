@@ -8,6 +8,6 @@ Hello:wave:! My name is Chris Benner-Kenagy, I was born and raised in Seattle Wa
 Growth mindset is about focusing on the process rather than the results. Knowing that through challenges one has the ability and opportunity to learn and grow. Skills, abilities, and intelligence are dynamic traits that can always be changed through persistent dedication to the task at hand. 
 
 I will remind myself of this mindset during this course by:
-1  embracing the act of learning
-2  allowing myself to take a break before returning my energized 
-3  remind myself of my goals in order to put in the needed effort 
+*  embracing the act of learning
+*  allowing myself to take a break before returning my energized
+*  remind myself of my goals in order to put in the needed effort 
