@@ -1,9 +1,9 @@
 # reading-notes
 _Reading journal for Code Fellows_  
   
- ## Assignment Lab 01b:  
+## Lab:01B  
  
-Hello :wave: ! My name is Chris Benner-Kenagy, I was born and raised in Seattle Washington. I am very excited to begin my software development journey with Code Fellows. Please visit my [GitHub profile](https://chrisbennerkenagy.github.io/reading-notes/) to see my progress.
+Hello 👋! My name is Chris Benner-Kenagy, I was born and raised in Seattle Washington. I am very excited to begin my software development journey with Code Fellows. Please visit my [GitHub profile](https://chrisbennerkenagy.github.io/reading-notes/) to see my progress.
 
 ## Growth MindSet:
 Growth mindset is about focusing on the process rather than the results. Knowing that through challenges one has the ability and opportunity to learn and grow. Skills, abilities, and intelligence are dynamic traits that can always be changed through persistent dedication to the task at hand. 
