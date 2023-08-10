@@ -1,2 +1,5 @@
 # reading-notes
-Reading journal for Code Fellows
+_Reading journal for Code Fellows_
+
+ ## Assignment Lab 01b:
+ 
