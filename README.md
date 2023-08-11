@@ -37,4 +37,4 @@ To create an unordered bulleted list, place either an asterisk, a plus, or a min
 
 Links:
 
-The quickest way to create a hyperlink is to encaplicate the website or email address in angel brackets. However if you want to create a title for a link, simply put the title inside brackets followed by the link in parenthesis. Additionally you can have a phrase or a title appear when the mouse highlights the link by adding the phrase in quotation marks following the url inside the parentheses. 
+The quickest way to create a hyperlink is to encapsulate the website or email address in angel brackets. However if you want to create a title for a link, simply put the title inside brackets followed by the link in parenthesis. Additionally you can have a phrase or a title appear when the mouse highlights the link by adding the phrase in quotation marks following the url inside the parentheses. 
