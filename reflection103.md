@@ -1,4 +1,4 @@
-# Relection 03: *Revisions and the Cloud*
+# Reflection 03: *Revisions and the Cloud*
 
 ## Quick Impressions
 
