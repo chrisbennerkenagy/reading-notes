@@ -7,5 +7,5 @@
 ## Directory:
  
  > [Code 102](https://chrisbennerkenagy.github.io/reading-notes/directory102)
-
- > [Code 201](https://chrisbennerkenagy.github.io/reading-notes/direcoty201)
+ >
+ > [Code 201](https://chrisbennerkenagy.github.io/reading-notes/directory201)
