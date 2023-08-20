@@ -5,7 +5,7 @@
 >CSS is clearly a powerful tool that allows web pages to be interactive and fun, >instead of lifeless documents. You can add CSS by inserting these instructions >three ways; External, Internal, and Inline. In practice, using an External CSS >stylesheet is best practice. However, you can also format the entire document using >Internal CSS or simple element changes with Inline CSS instruction.
 >
 
-## A quick example of using example of CSS syntax
+## A quick example CSS syntax
 
 *How to give all paragraph elements red text*
 
