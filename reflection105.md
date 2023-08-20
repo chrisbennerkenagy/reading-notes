@@ -7,7 +7,7 @@
 
 ## A quick example of using example of CSS syntax
 
-**How to give all paragraph elements red text*
+*How to give all paragraph elements red text*
 
 ```
 P
