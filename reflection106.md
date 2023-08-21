@@ -11,6 +11,7 @@ Declaring a variable in JavaScript means creating a new variable and assigning a
 ```javascript
 let age; 
 age = 32;
+```
 
 ## User Input
 
