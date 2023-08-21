@@ -4,9 +4,9 @@
 
 Variables in JavaScript are used to store and manage data values. They act as containers that hold different types of information, such as numbers, strings, objects, and more. Variables allow you to give a name to a piece of data, making it easier to work with and manipulate that data throughout your code.
 
-## What does it mean to declare a variable?
+## Declare a variable and Assignment?
 
-Declaring a variable in JavaScript means creating a new variable and assigning a name to it. This is done using the `var`, `let`, or `const` keyword, followed by the chosen variable name. For example:
+Declaring a variable in JavaScript means creating a new variable and assigning a name to it. This is done using the `var`, `let`, or `const` keyword, followed by the chosen variable name. Once the variable is declared, use the ('=') oerator to assign a value to it. For example:
 
 ```javascript
 let age; 
