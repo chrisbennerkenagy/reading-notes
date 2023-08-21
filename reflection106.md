@@ -9,11 +9,12 @@ Variables in JavaScript are used to store and manage data values. They act as co
 Declaring a variable in JavaScript means creating a new variable and assigning a name to it. This is done using the `var`, `let`, or `const` keyword, followed by the chosen variable name. For example:
 
 ```javascript
-let age; // Declares a variable named 'age'
+let age; 
+age = 32;
 
 ## User Input
 
-** What is information received from the user called? **
+**What is information received from the user called?**
 
 Information received from the user is commonly referred to as "user input." User input refers to any data or information that a user provides to a program or application. This input can come from various sources, such as keyboard input, mouse actions, form submissions, or any other interaction with the user interface.
 
